@@ -12,7 +12,7 @@ Basicly he compare 2 images with 15 minutes delay. If the image it is 95% equal 
 
 ### How to use:
 
-1. [Download last release archive.](Link)
+1. [Download last release.]
 2. Unzip and run `update_restart.exe` in your VM
 
 *Just run update_restart.exe in your VM and he will download the main.exe and put the restart_aurora.bat in your startup.
