@@ -10,7 +10,9 @@ Restart the VM if you bot crash.
 ### How to use:
 
 1. [Download last release archive.](Link)
-2. Unzip and run `.exe`
+2. Unzip and run `update_restart.exe` in your VM
+
+*Just run update_restart.exe in your VM and he will download the main.exe and put the restart_aurora.bat in your startup.
 
 ### Contacts:
 ```
