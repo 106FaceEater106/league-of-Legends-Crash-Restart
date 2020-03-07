@@ -1,6 +1,8 @@
 # league-of-Legends-Crash-Restart
 Restart the VM if you bot crash.
 
+Basicly he compare 2 images with 15 minutes delay. If the image it is 95% equal he send the comand to restart and generate a log file with the datetime.
+
 > ![Example]
 <a href="https://ibb.co/fGpvB45"><img src="https://i.ibb.co/fGpvB45/asd.png" alt="asd" border="0"></a>
 
